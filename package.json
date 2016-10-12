@@ -1,0 +1,20 @@
+{
+  "name": "deck_of_cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./views/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronepstein/deck_of_cards.git"
+  },
+  "author": "CameronEpstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronepstein/deck_of_cards/issues"
+  },
+  "homepage": "https://github.com/cameronepstein/deck_of_cards#readme"
+}
